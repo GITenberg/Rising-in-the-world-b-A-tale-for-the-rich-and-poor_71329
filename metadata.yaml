@@ -1,0 +1,32 @@
+_repo: Rising-in-the-world-b-A-tale-for-the-rich-and-poor_71329
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Arthur, T. S. (Timothy Shay)
+    aliases:
+    - Arthur, Timothy Shay
+    - Uncle Herbert
+    - Herbert, Uncle
+    birthdate: 1809
+    deathdate: 1885
+    gutenberg_agent_id: '1513'
+    url: http://www.gutenberg.org/2009/agents/1513
+    wikipedia: https://en.wikipedia.org/wiki/Timothy_Shay_Arthur
+description: ''
+gutenberg_issued: '2023-08-03'
+identifiers:
+  gutenberg: '71329'
+language: en
+pgterms:marc905: 20230726104543arthur
+pgterms:marc906: '1847'
+pgterms:marc907: US
+publication_note: '  $aUnited States :$bBaker & Scribner (Hubbard & Burgess), $c1847.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: 'Rising in the world : $b A tale for the rich and poor'
+url: http://www.gutenberg.org/ebooks/71329
