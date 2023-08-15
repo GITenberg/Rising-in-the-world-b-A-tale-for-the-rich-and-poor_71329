@@ -1,5 +1,8 @@
 _repo: Rising-in-the-world-b-A-tale-for-the-rich-and-poor_71329
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Arthur, T. S. (Timothy Shay)
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1513
     wikipedia: https://en.wikipedia.org/wiki/Timothy_Shay_Arthur
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71329#Rising-in-the-world-b-A-tale-for-the-rich-and-poor
 gutenberg_issued: '2023-08-03'
 identifiers:
   gutenberg: '71329'
